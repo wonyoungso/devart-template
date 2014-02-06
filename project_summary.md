@@ -1,4 +1,4 @@
-# Project Title
+# Small World
 Insert the name of your project
 
 ## Authors
