@@ -4,7 +4,8 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "threejs",
+            "webgl"
         ],
         "toolkits": [
             "insert toolkits"
