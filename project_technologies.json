@@ -4,11 +4,12 @@
             "insert apis"
         ],
         "platforms": [
-            "threejs",
-            "webgl"
+            "web"
         ],
         "toolkits": [
-            "insert toolkits"
+            "threejs",
+            "webgl",
+            "jquery"
         ]
     },
     "themes": [
