@@ -1,4 +1,4 @@
-Starting Point 
+# Starting Point 
 
 Korean creators tend to make small society. Almost everyone knows each other, influenced and 
 work together. Creators participate same exhibition, interview same magazine, or graduate same school, 
