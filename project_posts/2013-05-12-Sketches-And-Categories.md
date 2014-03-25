@@ -1,5 +1,5 @@
 #Node and Link Types
-Nodes and links, refered to Graph Theory, needs to be categorized.
+Nodes and links, refered to Graph Theory, needs to be categorized for this artwork.
 
 Node Type:
 * Creator: A person who make creative artwork alone, risking his/her own name. (Artist, Designer, Musician, Dancer...)
