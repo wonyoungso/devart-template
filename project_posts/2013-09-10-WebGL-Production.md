@@ -11,4 +11,17 @@ modifying Graph engine.
 
 [some codes]
 
+# 당신이 한국 창작자라면 직접 참가자들을 추가할 수 있다.
+
 [images]
+
+
+# 최단거리 검색 기능 
+
+[images]
+
+
+# 커뮤니티 열람 기능 
+
+[images]
+
