@@ -5,7 +5,6 @@
 One interaction designer wants to meet architect. Then he uses Small World app to 
 find shortest path to him. 
 
-
 http://youtu.be/B70o0OEppMs
 
 ##Creator Communities Scenario
