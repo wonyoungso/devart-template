@@ -19,7 +19,7 @@ modifying Graph engine.
 
 
 
-# 최단거리 검색 기능 
+# Shortest Path Finding
 
 ![WebGL Connection 01](../project_images/04_webgl_production/connection_01.png?raw=true "WebGL Connection 01")
 
@@ -27,11 +27,10 @@ modifying Graph engine.
 
 ![WebGL Connection 03](../project_images/04_webgl_production/connection_03.png?raw=true "WebGL Connection 03")
 
-![WebGL Connection 03](../project_images/04_webgl_production/connection_04.png?raw=true "WebGL Connection 03")
 
 
 
-# 커뮤니티 열람 기능 
+# Show Communities 
 
 ![WebGL Community 01](../project_images/04_webgl_production/community_01.png?raw=true "WebGL Community 01")
 
