@@ -6,11 +6,12 @@ One interaction designer wants to meet architect. Then he uses Small World app t
 find shortest path to him. 
 
 
-[![Alt text for your video]](http://vimeo.com/67577541)
+http://vimeo.com/67577541
 
 
 ##Creator Communities Scenario
 
-한 창작 커뮤니티의 구성원들을 확인하는 시나리오입니다.
+Two cultural designers want to search some music community. They have a bird-eye view of 
+Korean creators and find some music community and get a email of a member of community.
 
-![http://vimeo.com/67577541]
+http://vimeo.com/67577542
