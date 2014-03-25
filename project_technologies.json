@@ -4,7 +4,8 @@
             "insert apis"
         ],
         "platforms": [
-            "web"
+            "web",
+            "Ruby on Rails"
         ],
         "toolkits": [
             "threejs",
