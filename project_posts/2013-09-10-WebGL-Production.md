@@ -27,6 +27,8 @@ modifying Graph engine.
 
 ![WebGL Connection 03](../project_images/04_webgl_production/connection_03.png?raw=true "WebGL Connection 03")
 
+![WebGL Connection 03](../project_images/04_webgl_production/connection_04.png?raw=true "WebGL Connection 03")
+
 
 
 # 커뮤니티 열람 기능 
