@@ -14,7 +14,6 @@ modifying Graph engine.
 
 
 ## Explore Creators 
-당신이 한국 창작자라면 직접 참가자들을 추가할 수 있다.
 
 ![WebGL Creator 01](../project_images/04_webgl_production/creator_01.png?raw=true "WebGL Creator 01")
 
