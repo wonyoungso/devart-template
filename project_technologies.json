@@ -1,7 +1,7 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "google spreadsheet"
         ],
         "platforms": [
             "web",
