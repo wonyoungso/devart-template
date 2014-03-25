@@ -1,10 +1,13 @@
-웹지엘 버전 제작기, 스크린샷들.
+# WebGL Version Production
 
-WebGL 버전을 제작한 이유는 
-1. 퍼포먼스 이슈
-2. 많은 사람들의 제약없는 접속
-3. 인스톨레이션 용이성
+It needs to be converted to WebGL because : 
 
-이 있었습니다.
+1. Performance Issue
+2. Public access without boundaries
+3. Easy Artwork Installation Process(Just need a Chrome Browser)
 
-Ruby on Rails 으로 백엔드 해결, WebGL로 프론트 해결 
+As Performance Issue, 
+[some codes]
+
+
+[images]
