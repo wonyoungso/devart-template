@@ -2,7 +2,6 @@
 
 ##Sketches, Mockups
 
-
 ![Sketches](../project_images/03_ipad_apps/creator_screenshot.png?raw=true "Sketches")
 
 ##Shortest Path Scenario
@@ -19,4 +18,7 @@ Korean creators and find some music community and get a email of a member of com
 
 http://youtu.be/yNrWCKM2yuQ
 
-(images)
+##Screenshots
+
+![Screenshots 01](../project_images/03_ipad_apps/IMG_0063.jpg?raw=true "Screenshots 01")
+![Screenshots 02](../project_images/03_ipad_apps/IMG_0064.jpg?raw=true "Screenshots 02")
