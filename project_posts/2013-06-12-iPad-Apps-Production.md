@@ -3,17 +3,7 @@
 ##Sketches, Mockups
 
 
-![Sketches 01](../project_images/03_ipad_apps/creator_screenshot_01.png?raw=true "Sketches 01")
-
-![Sketches 02](../project_images/03_ipad_apps/creator_screenshot_02.png?raw=true "Sketches 02")
-
-![Sketches 03](../project_images/03_ipad_apps/creator_screenshot_03.png?raw=true "Sketches 03")
-
-![Sketches 04](../project_images/03_ipad_apps/creator_screenshot_04.png?raw=true "Sketches 04")
-
-![Sketches 05](../project_images/03_ipad_apps/creator_screenshot_05.png?raw=true "Sketches 05")
-
-![Sketches 06](../project_images/03_ipad_apps/creator_screenshot_06.png?raw=true "Sketches 06")
+![Sketches](../project_images/03_ipad_apps/creator_screenshot_01.png?raw=true "Sketches")
 
 ##Shortest Path Scenario
 
