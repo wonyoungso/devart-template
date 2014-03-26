@@ -12,10 +12,3 @@ Nodes and links, refered to Graph Theory, needs to be categorized for this artwo
 * Being belongs to Association
 * Collboration
 * Member of Collective
-
-
-##Sketches, Mockups
-
-[]
-[]
-[]
