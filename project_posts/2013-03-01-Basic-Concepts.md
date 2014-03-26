@@ -4,7 +4,7 @@ Korean creators tend to make small society. Almost everyone knows each other, in
 work together. Creators participate same exhibition, interview same magazine, or graduate same school, 
 maybe found a company or design studio for working together. This is a starting point.
 
-[그림 1: 창작자 1 ---- 창작자 2, 협업의 유형]
+![Concepts 01](../project_images/01_basic_concepts/concepts_01.png?raw=true "Concepts 01")
 
 Checking precisely all exhibitions held in Korea and collaboration works of them, I think 
 it can be drawn map of networks of Korean creators.

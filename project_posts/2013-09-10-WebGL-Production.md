@@ -15,11 +15,12 @@ modifying Graph engine.
 
 ## Explore Creators 
 
+![WebGL Creator 03](../project_images/04_webgl_production/creator_03.png?raw=true "WebGL Creator 03")
+
 ![WebGL Creator 01](../project_images/04_webgl_production/creator_01.png?raw=true "WebGL Creator 01")
 
 ![WebGL Creator 02](../project_images/04_webgl_production/creator_02.png?raw=true "WebGL Creator 02")
 
-![WebGL Creator 03](../project_images/04_webgl_production/creator_03.png?raw=true "WebGL Creator 03")
 
 
 ## Shortest Path Finding
