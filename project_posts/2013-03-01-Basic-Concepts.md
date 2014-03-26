@@ -12,12 +12,11 @@ it can be drawn map of networks of Korean creators.
 ## Network Visualization Layout: Force-directed Layout 
 It is the most frequently used layout engine for network visualization. 
 
-[그림 3: 레이아웃 모형]
-
-## Community Computation
+## Community Clustering
 Creators tied with themselves usually forms community. A clustering algorithm called 
 Speaker-listener Label Propagation(SLPA) is used for detecting communities. 
 
-[그림 2: 커뮤니티 모형]
+![Concepts 02](../project_images/01_basic_concepts/concepts_02.png?raw=true "Concepts 02")
+
 
 
