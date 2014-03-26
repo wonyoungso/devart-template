@@ -3,7 +3,7 @@
 ##Sketches, Mockups
 
 
-![Sketches](../project_images/03_ipad_apps/creator_screenshot_01.png?raw=true "Sketches")
+![Sketches](../project_images/03_ipad_apps/creator_screenshot.png?raw=true "Sketches")
 
 ##Shortest Path Scenario
 
