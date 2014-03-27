@@ -5,7 +5,8 @@
         ],
         "platforms": [
             "web",
-            "Ruby on Rails"
+            "Ruby on Rails",
+            "neo4j"
         ],
         "toolkits": [
             "threejs",
