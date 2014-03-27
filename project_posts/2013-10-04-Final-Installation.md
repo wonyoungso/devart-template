@@ -8,6 +8,7 @@ At installation, I use LeapMotion to navigate my network map and counts creators
 
 ![Installation 03](../project_images/05_installation/installation_03.jpg?raw=true "Installation 03")
 
+
 ![Installation 04](../project_images/05_installation/IMG_0535.jpg?raw=true "Installation 04")
 
 
