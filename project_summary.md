@@ -7,7 +7,7 @@
 
 http://small-word.kr
 
-![Project Screenshot](../project_images/screenshot_01.png?raw=true "Project Screenshot")
+![Project Screenshot](../project_images/screenshot.png?raw=true "Project Screenshot")
 
 
 ## Description
