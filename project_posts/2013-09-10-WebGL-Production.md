@@ -65,6 +65,6 @@ modifying Graph engine.
 
 ![WebGL Community 02](../project_images/04_webgl_production/community_02_02.png?raw=true "WebGL Community 02")
 
-![WebGL Community 03](../project_images/04_webgl_production/community_02_02.png?raw=true "WebGL Community 03")
+![WebGL Community 03](../project_images/04_webgl_production/community_03.png?raw=true "WebGL Community 03")
 
 
