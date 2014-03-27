@@ -20,6 +20,3 @@ Speaker-listener Label Propagation(SLPA) is used for detecting communities.
 https://sites.google.com/site/communitydetectionslpa/ganxis/labelrank_news
 
 ![Concepts 02](../project_images/01_basic_concepts/concepts_02.png?raw=true "Concepts 02")
-
-
-
