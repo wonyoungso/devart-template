@@ -9,6 +9,7 @@ http://small-word.kr
 
 ![Project Screenshot](../project_images/screenshot.png?raw=true "Project Screenshot")
 
+http://www.youtube.com/watch?v=1uicLT4MDhM
 
 ## Description
 Small World is an ongoing data collecting and mapping research project of Korean creators, collectives and the structure of its ecosystem. Having a bird-eye view of Korean creators, Wonyoung especially interested in how creators make work with others. this project aims to reveal the connections of creators emerging from these “collaboration”.
