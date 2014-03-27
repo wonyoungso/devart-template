@@ -61,8 +61,10 @@ modifying Graph engine.
 
 ## Show Communities 
 
-![WebGL Community 01](../project_images/04_webgl_production/community_01.png?raw=true "WebGL Community 01")
+![WebGL Community 01](../project_images/04_webgl_production/community_01_01.png?raw=true "WebGL Community 01")
 
-![WebGL Community 02](../project_images/04_webgl_production/community_02.png?raw=true "WebGL Community 02")
+![WebGL Community 02](../project_images/04_webgl_production/community_02_02.png?raw=true "WebGL Community 02")
+
+![WebGL Community 03](../project_images/04_webgl_production/community_02_02.png?raw=true "WebGL Community 03")
 
 
